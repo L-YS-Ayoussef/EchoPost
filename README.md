@@ -77,10 +77,10 @@ PostSphere is built using the **MERN stack** with additional libraries for enhan
 ### Add Post Form  
 ![Add Post](https://github.com/L-YS-Ayoussef/EchoPost/blob/master/screenshots/Screenshot3.png)  
 
-### Post Page  
+### Feed Page  
 ![Post Page](https://github.com/L-YS-Ayoussef/EchoPost/blob/master/screenshots/Screenshot4.png)  
 
-### Feed Page  
+### Post Page  
 ![Feed Page](https://github.com/L-YS-Ayoussef/EchoPost/blob/master/screenshots/Screenshot5.png)  
 
 ---
